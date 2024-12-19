@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1f93ccca83ae1610df44c5b5eeaad360" label="Chat Promt" max_length="40" name="x_1021112_chatgpt_chat_promt" type="collection">
+        <element label="Enter your Request" max_length="5000" name="enter_your_request" type="string_full_utf8"/>
+        <element label="Your Answer" max_length="1000" name="your_answer" type="string_full_utf8"/>
+    </element>
+</database>
