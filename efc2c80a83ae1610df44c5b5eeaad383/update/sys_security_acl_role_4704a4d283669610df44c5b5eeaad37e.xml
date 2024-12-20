@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:39:38</sys_created_on>
+        <sys_id>4704a4d283669610df44c5b5eeaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chatgptcall.x_1021112_chatgpt.chat_promt_user</sys_name>
+        <sys_package display_value="ChatGPT kishore " source="x_1021112_chatgpt">efc2c80a83ae1610df44c5b5eeaad383</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ChatGPT kishore ">efc2c80a83ae1610df44c5b5eeaad383</sys_scope>
+        <sys_security_acl display_value="chatgptcall">0f04a4d283669610df44c5b5eeaad378</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4704a4d283669610df44c5b5eeaad37e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:39:38</sys_updated_on>
+        <sys_user_role display_value="x_1021112_chatgpt.chat_promt_user" name="x_1021112_chatgpt.chat_promt_user">54f3c48a83ae1610df44c5b5eeaad377</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
